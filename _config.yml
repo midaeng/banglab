@@ -15,30 +15,33 @@ color:
 # Team names, titles and social links
 people:
 - name: Mijin Baek
-  pic: 1.png
-  position: Lead Designer
+  pic: mijin.png
+  position: Maker
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: http://facebook.com/dooly.bang
-    - title: stack-overflow
-      url: #
-
+    - title: google-plus
+      url: https://plus.google.com/+MijinBaek/
+- name: BANG LAB. X SOY CANDLES
+  pic: banglab.png
+  position: BANG LAB. FB Page
+  social:
+    - title: facebook
+      url: http://facebook.com/bybanglab
+    - title: instagram
+      url: http://instagram.com/bybanglab
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url: http://facebook.com/bybanglab
+    url: http://facebook.com/dooly.bang
   - title: github
     url: http://github.com/midaeng
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: #3481 Melrose Place
+  - line: #Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
