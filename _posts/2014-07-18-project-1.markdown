@@ -1,6 +1,6 @@
 ---
 title: 4oz Square
-subtitle: Website Design
+subtitle: Soy Candles
 layout: default
 modal-id: 1
 date: 2014-07-18
