@@ -10,7 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Handcraft
-description: 7.5 oz and 11oz Translucent jar soycandle. The diameter is 7cm and the height is 8.3cm. Lead time is about 45hours. That used wood wick but you can change to cotton wick if you want. 
-The case of 11oz, diameter is 8cm and the height is 9cm.
+description: 7.5 oz and 11oz Translucent jar soycandle. The diameter is 7cm and the height is 8.3cm. Lead time is about 45hours. That used wood wick but you can change to cotton wick if you want. 11oz has same shape, diameter is 8cm and the height is 9cm.
 
 ---
