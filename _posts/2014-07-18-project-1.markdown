@@ -2,8 +2,8 @@
 title: 4oz Square
 subtitle: Soy Candles
 layout: default
-modal-id: 2
-date: 2014-07-18
+modal-id: 1
+date: 2014-11-15
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
