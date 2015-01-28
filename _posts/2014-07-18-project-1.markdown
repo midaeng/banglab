@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-11-15
 img: dreams.png
-thumbnail: 4oz-square-thumbnail.png
+thumbnail: logo_square_400x250.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
