@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Handcraft
-description: 4oz square soycandle. Height is 5cm, lead-time is 20hours and used smokeless wick.
+description: 4oz square soycandle. Height is 5cm, lead time is 20hours and used smokeless wick.
 
 ---
