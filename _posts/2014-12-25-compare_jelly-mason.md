@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Handcraft
-description:  4oz jelly mason jar soycandle. The size is 4oz and 8oz. The diameter of both is 7cm same. 4oz jelly jar is a "To go" candle! And you can choose a daisy lid.
+description:  Compare two sizes jelly mason jar soycandles!! The size is 4oz and 8oz. The diameter of both is 7cm same. But the height is longer.
 ---
 
 
