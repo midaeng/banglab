@@ -1,5 +1,5 @@
 ---
-title: 7.5 oz and 11oz Translucent jar
+title: Translucent jar
 subtitle: Soy Candles
 layout: default
 modal-id: 2

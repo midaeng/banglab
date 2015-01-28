@@ -1,5 +1,5 @@
 ---
-title: 4oz Jelly mason X Daisy lid
+title: 4oz Jelly X Daisy lid
 subtitle: Soy Candles
 layout: default
 modal-id: 7

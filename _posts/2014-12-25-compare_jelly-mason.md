@@ -1,5 +1,5 @@
 ---
-title: Compare jelly mason jars
+title: Compare jelly jars
 subtitle: Soy Candles
 layout: default
 modal-id: 8
