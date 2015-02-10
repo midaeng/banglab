@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Roboto Slab","Helvetica Neue","Nanum Barunpen R", "Nanum Gothic", Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary-dark }};
 }
 

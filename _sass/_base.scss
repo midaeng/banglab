@@ -1,3 +1,18 @@
+// Partials
+@font-face {
+  font-family: 'Nanum Barunpen R';
+  font-style: normal;
+  font-weight: 400;
+
+  src: url(/fonts/NanumBarunpenR.eot);
+  src: url(/fonts/NanumBarunpenR.eot?#iefix) format('embedded-opentype'),
+       url(/fonts/NanumBarunpenR.woff) format('woff'),
+       url(/fonts/NanumBarunpenR.ttf) format('truetype');
+}
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+
+
 /**
  * Reset some basic elements
  */
