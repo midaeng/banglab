@@ -2,7 +2,7 @@ url: //banglab.com
 baseurl: /soycandle/
 
 # Site settings
-title: BANG LAB. X SOYCANDLES
+title: BANGLAB. X SOYCANDLES
 email: midaeng@gmail.com
 description: "BANG's handcrafting blog "
 
@@ -22,9 +22,9 @@ people:
       url: http://facebook.com/dooly.bang
     - title: google-plus
       url: https://plus.google.com/+MijinBaek/
-- name: BANG LAB. X SOYCANDLES
+- name: BANGLAB. X SOYCANDLES
   pic: banglab.png
-  position: BANG LAB. FB Page
+  position: BANGLAB. FB Page
   social:
     - title: facebook
       url: http://facebook.com/bybanglab
