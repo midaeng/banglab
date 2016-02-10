@@ -5,3 +5,5 @@ keywords: Soy Candle, BANGLAB, Make, Handcraft
 author: Mijin Baek
 baseurl: /soycandle/ # the subpath of your site, e.g. /blog/
 url: //banglab.com # the base hostname & protocol for your site
+
+analytics: 'UA-54298325-1'
